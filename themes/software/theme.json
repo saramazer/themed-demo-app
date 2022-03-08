@@ -1,0 +1,42 @@
+{
+	"theme": "Software",
+	"themeStyle": {
+		"colors": {
+			"brand": {
+				"title": "#ffffff",
+				"title_bg1": "#04008A",
+				"title_bg2": "#BDBDBD"
+			}
+		},
+		"fonts": {
+			"heading": "Share Tech"
+		}
+	},
+	"heroImage": "https://static.techspot.com/articles-info/893/images/history-of-pc-ibm-pc-5150-6big.png",
+	"navLinks": [],
+	"itemType": "app",
+	"clickSound": "themes/p2p/sound.mp3",
+	"defaultItemImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Share_alt_square_font_awesome.svg/1920px-Share_alt_square_font_awesome.svg.png",
+	"items": [
+		{
+			"name": "Bearshare",
+			"image": "https://icons.iconarchive.com/icons/tribalmarkings/colorflow/256/bearshare-icon.png"
+		},
+		{
+			"name": "Kazaa",
+			"image": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Kazaa_%28logo%29.png"
+		},
+		{
+			"name": "Limewire",
+			"image": "https://i.kym-cdn.com/entries/icons/original/000/027/438/lime.jpg"
+		},
+		{
+			"name": "eDonkey2000",
+			"image": "https://upload.wikimedia.org/wikipedia/zh/8/8e/EDonkey2000_logopic.png"
+		},
+		{
+			"name": "Morpheus",
+			"image": "https://stephenchukumba.files.wordpress.com/2013/07/morpheus.jpg"
+		}
+	]
+}

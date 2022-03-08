@@ -1,0 +1,19 @@
+{
+    "theme": "Default",
+    "themeStyle": {
+        "colors": {
+            "brand": {
+                "title": "#ebff38",
+                "title_bg1": "#282828",
+                "title_bg2": "#1E1E1E"
+            }
+        },
+        "fonts": {}
+    },
+    "heroImage": "themes/default/hero.webp",
+    "navLinks": [],
+    "itemType": "",
+    "clickSound": "themes/default/sound.mp3",
+    "defaultItemImage": "themes/default/default.png",
+    "items": []
+}

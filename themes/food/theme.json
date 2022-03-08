@@ -1,0 +1,54 @@
+{
+	"theme": "Food",
+	"themeStyle": {
+		"colors": {
+			"brand": {
+				"title": "#ffffff",
+				"title_bg1": "#7C7A78",
+				"title_bg2": "#3897F0"
+			}
+		},
+		"fonts": {
+			"heading": "Dosis"
+		}
+	},
+	"heroImage": "https://i1.wp.com/demo.wpzoom.com/foodica/files/2013/01/antipasto_066_crop-e1459676473936.jpg?resize=1500%2C1000&ssl=1",
+	"navLinks": [],
+	"itemType": "food item",
+	"clickSound": "themes/food/sound.mp3",
+	"defaultItemImage": "https://freesvg.org/img/1547769076.png",
+	"items": [
+		{
+            "name": "Ice Cream",
+            "image": "https://www.frostysicecream.com/wp-content/uploads/2018/01/booking-1.png"
+        },
+        {
+            "name": "French Fries",
+            "image": "https://hwy3burgerhouse.com/wp/wp-content/uploads/2019/10/French-Fries-min.png"
+        },
+        {
+            "name": "Rice",
+            "image": "https://imageresizer.pollotropical.fuzzhq.com/resize/?source=https://koala-marketing-api-production.s3.amazonaws.com/pollo-tropical/assets/WhiteRice.png&height=9999&width=600&max_quality=85"
+        },
+        {
+            "name": "Pizza",
+            "image": "https://randys-pizza.com/wp-content/uploads/new-york-style-pizza-and-subs.png"
+        },
+        {
+            "name": "Spaghetti",
+            "image": "https://jollibee.mangoads.com.vn/uploads/dish/3462caa31b7820-myylon.png"
+        },
+        {
+            "name": "Hamburger",
+            "image": "https://www.caseys.com/medias/sys_master/images/h06/h65/8796514517022/9843789010_base-400x400/9843789010-base-400x400.png"
+        },
+        {
+            "name": "Hot Wings",
+            "image": "https://www.caseys.com/medias/sys_master/images/h20/h84/8796496232478/8223_base-400x400/8223-base-400x400.png"
+        },
+        {
+            "name": "Burrito",
+            "image": "https://www.chipotle.com/content/dam/chipotle/global/menu/meal-types/cmg-10001-burrito/web-mobile/order.png"
+        }
+	]
+}

@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/themed-demo-app/static/css/main.fe971334.css",
+    "main.js": "/themed-demo-app/static/js/main.ab098f40.js",
+    "index.html": "/themed-demo-app/index.html",
+    "main.fe971334.css.map": "/themed-demo-app/static/css/main.fe971334.css.map",
+    "main.ab098f40.js.map": "/themed-demo-app/static/js/main.ab098f40.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fe971334.css",
+    "static/js/main.ab098f40.js"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+    "theme": "Migration",
+    "themeStyle": {
+        "colors": {
+            "brand": {
+                "title": "#ebff38",
+                "title_bg1": "#282828",
+                "title_bg2": "#1E1E1E"
+            }
+        },
+        "fonts": {}
+    },
+    "heroImage": "",
+    "navLinks": [],
+    "itemType": "",
+    "clickSound": "",
+    "defaultItemImage": "",
+    "items": []
+}

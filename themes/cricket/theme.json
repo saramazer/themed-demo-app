@@ -1,0 +1,54 @@
+{
+	"theme": "Cricket",
+	"themeStyle": {
+		"colors": {
+			"brand": {
+				"title": "#ffffff",
+				"title_bg1": "#47BFF4",
+				"title_bg2": "#15244C"
+			}
+		},
+		"fonts": {
+			"heading": "Poppins"
+		}
+	},
+	"heroImage": "themes/cricket/hero.jpg",
+	"navLinks": ["Tickets"],
+	"itemType": "team",
+	"clickSound": "themes/cricket/sound.mp3",
+	"defaultItemImage": "themes/cricket/default.png",
+	"items": [
+		{
+			"name": "Australia",
+			"image": "https://freepikpsd.com/file/2019/10/logo-cricket-australia-png-26-Transparent-Images.png"
+		},
+		{
+			"name": "Bangladesh",
+			"image": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5c/Bangladesh_Cricket_Board_Logo.svg/640px-Bangladesh_Cricket_Board_Logo.svg.png"
+		},
+		{
+			"name": "England",
+			"image": "https://cdn.freelogovectors.net/svg06/ECB-england-cricket-board-logo.svg"
+		},
+		{
+			"name": "New Zealand",
+			"image": "https://yourjersey.com.au/wp-content/uploads/2019/01/logo-nz.png"
+		},
+		{
+			"name": "India",
+			"image": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8d/Cricket_India_Crest.svg/2560px-Cricket_India_Crest.svg.png"
+		},
+		{
+			"name":"Pakistan",
+			"image":"https://upload.wikimedia.org/wikipedia/en/thumb/7/7c/PakistancricketBoard-logo.svg/640px-PakistancricketBoard-logo.svg.png"
+		},
+		{
+			"name":"South Africa",
+			"image": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5a/Cricket_South_Africa.svg/800px-Cricket_South_Africa.svg.png"
+		},
+		{
+			"name": "Sri Lanka",
+			"image": "https://www.cricexec.com/wp-content/uploads/2020/09/srilanka-logo-resized.png"
+		}
+	]
+}

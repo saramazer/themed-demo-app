@@ -1,0 +1,42 @@
+{
+	"theme": "Animals",
+	"themeStyle": {
+		"colors": {
+			"brand": {
+				"title": "#ffffff",
+				"title_bg1": "#C71532",
+				"title_bg2": "#025490"
+			}
+		},
+		"fonts": {
+			"heading": "Pangolin"
+		}
+	},
+	"heroImage": "https://demo.wpzoom.com/eclipse/files/2016/12/3ifymzdtduy-jairo-alzate.jpg",
+	"navLinks": [],
+	"itemType": "animal",
+	"clickSound": "themes/animals/sound.mp3",
+	"defaultItemImage": "http://www.clker.com/cliparts/6/c/0/d/13318214841422065416wolf%20track.png",
+	"items": [
+		{
+			"name": "Cat",
+			"image": "https://meowtel.com/img/assets/home/hero-image-cat-3.png"
+		},
+        {
+            "name": "Dog",
+            "image": "https://d20iq7dmd9ruqy.cloudfront.net/images/design-assets/testimonials-dog-taller.png"
+        },
+        {
+            "name": "Fish",
+            "image": "https://www.freeiconspng.com/thumbs/fish-water-png/fish-png-17.png"
+        },
+        {
+            "name": "Lizard",
+            "image": "https://freepngimg.com/thumb/lizard/26961-2-lizard-hd.png"
+        },
+        {
+            "name": "Bird",
+            "image": "https://static.mywebsites360.com/b3372f4c7c4346d69bef2243823974df/i/d8b280e1ba0c4387afd3e2421a8b2b44/1/4SoifmQp45JMgBnHp7ed2/parakeet%20img.png"
+        }
+	]
+}

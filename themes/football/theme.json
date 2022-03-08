@@ -1,0 +1,151 @@
+{
+	"theme": "Football",
+	"themeStyle": {
+		"colors": {
+			"brand": {
+				"title": "#ffffff",
+				"title_bg1": "#33920E",
+				"title_bg2": "#654321"
+			}
+		},
+		"fonts": {
+			"heading": "Graduate"
+		}
+	},
+	"heroImage": "themes/football/hero.jpg",
+	"navLinks": ["Tickets"],
+	"itemType": "team",
+	"clickSound": "themes/football/sound.mp4",
+	"defaultItemImage": "themes/football/default.gif",
+	"items": [
+		{
+			"name": "Arizona Cardinals",
+			"image": "https://content.sportslogos.net/logos/7/177/full/kwth8f1cfa2sch5xhjjfaof90.png"
+		},
+		{
+			"name": "Atlanta Falcons",
+			"image": "https://content.sportslogos.net/logos/7/173/full/299.png"
+		},
+		{
+			"name": "Baltimore Ravens",
+			"image": "https://content.sportslogos.net/logos/7/153/full/318.png"
+		},
+		{
+			"name": "Buffalo Bills",
+			"image": "https://content.sportslogos.net/logos/7/149/full/n0fd1z6xmhigb0eej3323ebwq.png"
+		},
+		{
+			"name": "Carolina Panthers",
+			"image": "https://content.sportslogos.net/logos/7/174/full/f1wggq2k8ql88fe33jzhw641u.png"
+		},
+		{
+			"name": "Chicago Bears",
+			"image": "https://content.sportslogos.net/logos/7/169/full/364.png"
+		},
+		{
+			"name": "Cincinnati Bengals",
+			"image": "https://content.sportslogos.net/logos/7/154/full/cincinnati_bengals_logo_primary_2021_sportslogosnet-2049.png"
+		},
+		{
+			"name": "Cleveland Browns",
+			"image": "https://content.sportslogos.net/logos/7/155/full/7855_cleveland_browns-primary-2015.png"
+		},
+		{
+			"name": "Dallas Cowboys",
+			"image": "https://content.sportslogos.net/logos/7/165/full/406.png"
+		},
+		{
+			"name": "Denver Broncos",
+			"image": "https://content.sportslogos.net/logos/7/161/full/9ebzja2zfeigaziee8y605aqp.png"
+		},
+		{
+			"name": "Detroit Lions",
+			"image": "https://content.sportslogos.net/logos/7/170/full/1398_detroit_lions-primary-2017.png"
+		},
+		{
+			"name": "Green Bay Packers",
+			"image": "https://content.sportslogos.net/logos/7/171/full/dcy03myfhffbki5d7il3.png"
+		},
+		{
+			"name": "Houston Texans",
+			"image": "https://content.sportslogos.net/logos/7/157/full/570.png"
+		},
+		{
+			"name": "Indianapolis Colts",
+			"image": "https://content.sportslogos.net/logos/7/158/full/593.png"
+		},
+		{
+			"name": "Jacksonville Jaguars",
+			"image": "https://content.sportslogos.net/logos/7/159/full/8856_jacksonville_jaguars-alternate-2013.png"
+		},
+		{
+			"name": "Kansas City Chiefs",
+			"image": "https://content.sportslogos.net/logos/7/162/full/857.png"
+		},
+		{
+			"name": "Las Vegas Raiders",
+			"image": "https://content.sportslogos.net/logos/7/6708/full/8521_las_vegas_raiders-primary-20201.png"
+		},
+		{
+			"name": "Los Angeles Chargers",
+			"image": "https://content.sportslogos.net/logos/7/6446/full/1660_los_angeles__chargers-primary-20201.png"
+		},
+		{
+			"name": "Los Angeles Rams",
+			"image": "https://content.sportslogos.net/logos/7/5941/full/8334_los_angeles_rams-primary-20201.png"
+		},
+		{
+			"name": "Miami Dolphins",
+			"image": "https://content.sportslogos.net/logos/7/150/full/7306_miami_dolphins-primary-2018.png"
+		},
+		{
+			"name": "Minnesota Vikings",
+			"image": "https://content.sportslogos.net/logos/7/172/full/2704_minnesota_vikings-primary-20131.png",
+			"sound": "themes/football/vikings.mp3"
+		},
+		{
+			"name": "New England Patriots",
+			"image": "https://content.sportslogos.net/logos/7/151/full/y71myf8mlwlk8lbgagh3fd5e0.png"
+		},
+		{
+			"name": "New Orleans Saints",
+			"image": "https://content.sportslogos.net/logos/7/175/full/907.png"
+		},
+		{
+			"name": "New York Giants",
+			"image": "https://content.sportslogos.net/logos/7/166/full/919.gif"
+		},
+		{
+			"name": "New York Jets",
+			"image": "https://content.sportslogos.net/logos/7/152/full/9116_new_york_jets-primary-2019.png"
+		},
+		{
+			"name": "Philadelphia Eagles",
+			"image": "https://content.sportslogos.net/logos/7/167/full/960.png"
+		},
+		{
+			"name": "Pittsburgh Steelers",
+			"image": "https://content.sportslogos.net/logos/7/156/full/970.png"
+		},
+		{
+			"name": "San Francisco 49ers",
+			"image": "https://content.sportslogos.net/logos/7/179/full/9455_san_francisco_49ers-primary-2009.png"
+		},
+		{
+			"name": "Seattle Seahawks",
+			"image": "https://content.sportslogos.net/logos/7/180/full/pfiobtreaq7j0pzvadktsc6jv.png"
+		},
+		{
+			"name": "Tampa Bay Buccaneers",
+			"image": "https://content.sportslogos.net/logos/7/176/full/8363_tampa_bay_buccaneers-primary-2020.png"
+		},
+		{
+			"name": "Tennessee Titans",
+			"image": "https://content.sportslogos.net/logos/7/160/full/1053.png"
+		},
+		{
+			"name": "Washington Football Team",
+			"image": "https://content.sportslogos.net/logos/7/6741/full/8837_washington_football_team-wordmark-20201.png"
+		}
+	]
+}

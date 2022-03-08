@@ -1,0 +1,138 @@
+{
+	"theme": "Soccer",
+	"themeStyle": {
+		"colors": {
+			"brand": {
+				"title": "#ffffff",
+				"title_bg1": "#1F1F1F",
+				"title_bg2": "#0070A0"
+			}
+		},
+		"fonts": {
+			"heading": "Lato"
+		}
+	},
+	"heroImage": "https://cyberspaceart.com/topclub-sp/wp-content/uploads/sites/3/slider/cache/2c87858596cc7031be9ab54687e644f3/slide1-1-1.jpg",
+	"navLinks": [],
+	"itemType": "team",
+	"clickSound": "themes/soccer/sound.mp3",
+	"defaultItemImage": "https://content.sportslogos.net/logos/9/1029/full/8653__major_league_soccer-primary-2015.png",
+	"items": [
+		{
+			"name": "Atlanta United FC",
+			"image": "https://content.sportslogos.net/logos/9/5475/full/7393_atlanta_united_fc-primary-2017.png"
+		},
+		{
+			"name": "Austin FC",
+			"image": "https://content.sportslogos.net/logos/9/6663/full/4066_austin_fc_-primary-2021.png"
+		},
+		{
+			"name": "Charlotte FC",
+			"image": "https://content.sportslogos.net/logos/9/6739/full/5769_charlotte_fc_-primary-2022.png"
+		},
+		{
+			"name": "Chicago Fire",
+			"image": "https://content.sportslogos.net/logos/9/323/full/2509_chicago_fire-primary-20201.png"
+		},
+		{
+			"name": "Colorado Rapids",
+			"image": "https://content.sportslogos.net/logos/9/328/full/rkjf0o1eifa47lh6uhy4oj5qy.gif"
+		},
+		{
+			"name": "Columbus Crew FC",
+			"image": "https://content.sportslogos.net/logos/9/324/full/1002_columbus_crew-primary-2015.png"
+		},
+		{
+			"name": "D.C. United",
+			"image": "https://content.sportslogos.net/logos/9/325/full/9001_dc_united-primary-20161.png"
+		},
+		{
+			"name": "FC Dallas",
+			"image": "https://content.sportslogos.net/logos/9/329/full/97yz6vcggd25lhyswy2fgvhfz.gif"
+		},
+		{
+			"name": "FC Cincinnati",
+			"image": "https://content.sportslogos.net/logos/9/6623/full/8565_fc_cincinnati_-primary-20191.png"
+		},
+		{
+			"name": "Houston Dynamo FC",
+			"image": "https://content.sportslogos.net/logos/9/1482/full/3759_houston_dynamo-primary-2021.png"
+		},
+		{
+			"name": "Inter Miami C.F.",
+			"image": "https://content.sportslogos.net/logos/9/6621/full/7559_inter_miami_cf-primary-20201.png"
+		},
+		{
+			"name": "LA Galaxy",
+			"image": "https://content.sportslogos.net/logos/9/331/full/la_galaxy-primary_20078587.png"
+		},
+		{
+			"name": "LAFC",
+			"image": "https://content.sportslogos.net/logos/9/5480/full/5524_lafc_-primary-20181.png"
+		},
+		{
+			"name": "Minnesota United FC",
+			"image": "https://content.sportslogos.net/logos/9/6288/full/2759_minnesota__united_fc-primary-20171.png"
+		},
+		{
+			"name": "Club de Foot Montreal",
+			"image": "https://content.sportslogos.net/logos/9/6754/full/5960_montreal_club_de_foot-primary-2021.png"
+		},
+		{
+			"name": "Nashville SC",
+			"image": "https://content.sportslogos.net/logos/9/6672/full/8747_nashville_sc_-primary-2020.png"
+		},
+		{
+			"name": "New England Revolution",
+			"image": "https://content.sportslogos.net/logos/9/327/full/4829_new_england_revolution-primary-2009.png"
+		},
+		{
+			"name": "New York Red Bulls",
+			"image": "https://content.sportslogos.net/logos/9/1876/full/i9ni847kriagxdlb7xewa6dl8.gif"
+		},
+		{
+			"name": "New York City FC",
+			"image": "https://content.sportslogos.net/logos/9/5119/full/6000_new_york_city__fc-primary-2015.png"
+		},
+		{
+			"name": "Orlando City SC",
+			"image": "https://content.sportslogos.net/logos/9/5135/full/6486_orlando_city__sc-primary-2015.png"
+		},
+		{
+			"name": "Philadelphia Union",
+			"image": "https://content.sportslogos.net/logos/9/2761/full/4212_philadelphia_union-primary-2018.png"
+		},
+		{
+			"name": "Portland Timbers",
+			"image": "https://content.sportslogos.net/logos/9/2836/full/6801_portland__timbers-primary-2019.png"
+		},
+		{
+			"name": "Red Salt Lake",
+			"image": "https://content.sportslogos.net/logos/9/394/full/8985_real_salt_lake-primary-2010.png"
+		},
+		{
+			"name": "San Jose Earthquakes",
+			"image": "https://content.sportslogos.net/logos/9/332/full/7952_san_jose_earthquakes-primary-20141.png"
+		},
+		{
+			"name": "Seattle Sounders",
+			"image": "https://content.sportslogos.net/logos/9/2760/full/2xkgg8fsj5zgywdhx5in779ed.gif"
+		},
+		{
+			"name": "Sporting Kansas City",
+			"image": "https://content.sportslogos.net/logos/9/2834/full/sporting__kansas_city-primary_20113635.png"
+		},
+		{
+			"name": "St. Louis City SC",
+			"image": "https://content.sportslogos.net/logos/9/6742/full/3032_st_louis_city_sc_-primary-2023.png"
+		},
+		{
+			"name": "Toronto FC",
+			"image": "https://content.sportslogos.net/logos/9/1249/full/2990_toronto_fc-primary-2010.png"
+		},
+		{
+			"name": "Vancouver Whitecaps FC",
+			"image": "https://content.sportslogos.net/logos/9/2835/full/vancouver_whitecaps_fc-primary_20115239.png"
+		}
+	]
+}

@@ -1,0 +1,50 @@
+{
+	"theme": "Movies",
+	"themeStyle": {
+		"colors": {
+			"brand": {
+				"title": "#ffffff",
+				"title_bg1": "#000000",
+				"title_bg2": "#9C0524"
+			}
+		},
+		"fonts": {
+			"heading": "Limelight"
+		}
+	},
+	"heroImage": "https://entrepreneurship.babson.edu/wp-content/uploads/2020/10/Movie-1200-630.jpg",
+	"navLinks": [],
+	"itemType": "movie",
+	"clickSound": "themes/movies/sound.mp3",
+	"defaultItemImage": "https://www.shagcarpetprops.com/v/vspfiles/photos/11218-2.png?v-cache=1591023788",
+	"items": [
+		{
+			"name": "Scarface",
+			"image": "https://classicmoviemeltdown.files.wordpress.com/2011/10/scarface.png"
+		},
+		{
+			"name": "Star Wars",
+			"image": "https://arttocanvas.com/wp-content/uploads/2014/05/theempirestrikesback-565x822.png"
+		},
+        {
+            "name": "Raiders of the Lost Ark",
+            "image": "https://i.pinimg.com/originals/0e/82/73/0e82731f7ed3f8fc6aa4bce4e26ddcaf.png"
+        },
+		{
+			"name": "Shrek",
+			"image": "https://www.dreamworks.com/storage/movies/shrek/shrek-he-digital.png"
+		},
+        {
+            "name": "Silence of the Lambs",
+            "image": "https://m.media-amazon.com/images/I/41FPUf4Gr0L._AC_.jpg"
+        },
+        {
+            "name": "This is Spinal Tap",
+            "image": "https://m.media-amazon.com/images/I/51phvcLDhaL._AC_.jpg"
+        },
+        {
+            "name": "Alien",
+            "image": "https://m.media-amazon.com/images/I/81lrPEEJ2WL._AC_SY741_.jpg"
+        }
+	]
+}

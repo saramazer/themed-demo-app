@@ -1,0 +1,142 @@
+{
+	"theme": "Baseball",
+	"themeStyle": {
+		"colors": {
+			"brand": {
+				"title": "#ffffff",
+				"title_bg1": "#151515",
+				"title_bg2": "#33920E"
+			}
+		},
+		"fonts": {
+			"heading": "Playball"
+		}
+	},
+	"heroImage": "https://splash.stylemixthemes.com/baseball/wp-content/uploads/sites/4/2017/07/banner.jpg",
+	"navLinks": ["Tickets", "Schedule", "Community"],
+	"itemType": "team",
+	"clickSound": "themes/baseball/sound.mp3",
+	"defaultItemImage": "https://logos-world.net/wp-content/uploads/2021/09/Major-League-Baseball-Logo-2019-present.webp",
+	"items": [
+		{
+			"name": "Baltimore Orioles",
+			"image": "https://content.sportslogos.net/logos/53/52/full/baltimore_orioles_logo_primary_20195398.png"
+		},
+		{
+			"name": "Boston Red Sox",
+			"image": "https://content.sportslogos.net/logos/53/53/full/boston_red_sox_logo_primary_20097510.png"
+		},
+		{
+			"name": "Chicago White Sox",
+			"image": "https://content.sportslogos.net/logos/53/55/full/chicago_white_sox_logo_primary_19911413.png"
+		},
+		{
+			"name": "Cleveland Guardians",
+			"image": "https://content.sportslogos.net/logos/53/6804/full/cleveland_guardians_logo_primary_2022_sportslogosnet-5538.png"
+		},
+		{
+			"name": "Detroit Tigers",
+			"image": "https://content.sportslogos.net/logos/53/59/full/8964_detroit_tigers-primary-2016.png"
+		},
+		{
+			"name": "Houston Astros",
+			"image": "https://content.sportslogos.net/logos/53/4929/full/9503_houston_astros-primary-2000.png"
+		},
+		{
+			"name": "Kansas City Royals",
+			"image": "https://content.sportslogos.net/logos/53/62/full/8322_kansas_city_royals-primary-2019.png"
+		},
+		{
+			"name": "Los Angeles Angels",
+			"image": "https://content.sportslogos.net/logos/53/6521/full/4389_los_angeles_angels-primary-2016.png"
+		},
+		{
+			"name": "Minnesota Twins",
+			"image": "https://content.sportslogos.net/logos/53/65/full/peii986yf4l42v3aa3hy0ovlf.png"
+		},
+		{
+			"name": "New York Yankees",
+			"image": "https://content.sportslogos.net/logos/53/68/full/1256.png"
+		},
+		{
+			"name": "Oakland Athletics",
+			"image": "https://content.sportslogos.net/logos/53/69/full/6xk2lpc36146pbg2kydf13e50.png"
+		},
+		{
+			"name": "Tampa Bay Rays",
+			"image": "https://content.sportslogos.net/logos/53/2535/full/9448_tampa_bay_rays-primary-2019.png"
+		},
+		{
+			"name": "Texas Rangers",
+			"image": "https://content.sportslogos.net/logos/53/77/full/ajfeh4oqeealq37er15r3673h.png"
+		},
+		{
+			"name": "Seattle Mariners",
+			"image": "https://content.sportslogos.net/logos/53/75/full/1305.png"
+		},
+		{
+			"name": "Toronto Blue Jays",
+			"image": "https://content.sportslogos.net/logos/53/78/full/8987_toronto_blue_jays-primary-2020.png"
+		},
+		{
+			"name": "Arizona Diamondbacks",
+			"image": "https://content.sportslogos.net/logos/54/50/full/arizona_diamondbacks_logo_primary_20123733.png"
+		},
+		{
+			"name": "Atlanta Braves",
+			"image": "https://content.sportslogos.net/logos/54/51/full/3kgwjp6heowkeg3w8zoow9ggy.png"
+		},
+		{
+			"name": "Chicago Cubs",
+			"image": "https://content.sportslogos.net/logos/54/54/full/chicago_cubs_logo_primary_19792956.png"
+		},
+		{
+			"name": "Cincinnati Reds",
+			"image": "https://content.sportslogos.net/logos/54/56/full/cincinnati_reds_logo_primary_20133208.png"
+		},
+		{
+			"name": "Colorado Rockies",
+			"image": "https://content.sportslogos.net/logos/54/58/full/colorado_rockies_logo_primary_20171892.png"
+		},
+		{
+			"name": "Los Angeles Dodgers",
+			"image": "https://content.sportslogos.net/logos/54/63/full/los_angeles_dodgers_logo_primary_20127886.png"
+		},
+		{
+			"name": "Miami Marlins",
+			"image": "https://content.sportslogos.net/logos/54/3637/full/7544_miami_marlins-primary-2019.png"
+		},
+		{
+			"name": "Milwaukee Brewers",
+			"image": "https://content.sportslogos.net/logos/54/64/full/6474_milwaukee_brewers-primary-2020.png"
+		},
+		{
+			"name": "New York Mets",
+			"image": "https://content.sportslogos.net/logos/54/67/full/m01gfgeorgvbfw15fy04alujm.png"
+		},
+		{
+			"name": "Philadelphia Phillies",
+			"image": "https://content.sportslogos.net/logos/54/70/full/philadelphia_phillies_logo_primary_20193931.png"
+		},
+		{
+			"name": "Pittsburgh Pirates",
+			"image": "https://content.sportslogos.net/logos/54/71/full/1250_pittsburgh_pirates-primary-2014.png"
+		},
+		{
+			"name": "San Diego Padres",
+			"image": "https://content.sportslogos.net/logos/54/73/full/7517_san_diego_padres-primary-2020.png"
+		},
+		{
+			"name": "San Francisco Giants",
+			"image": "https://content.sportslogos.net/logos/54/74/full/cpqj6up5bvgpoedg5fwsk20ve.png"
+		},
+		{
+			"name": "St. Louis Cardinals",
+			"image": "https://content.sportslogos.net/logos/54/72/full/3zhma0aeq17tktge1huh7yok5.png"
+		},
+		{
+			"name": "Washington Nationals",
+			"image": "https://content.sportslogos.net/logos/54/578/full/rcehah9k0kekjkgzm077fflws.png"
+		}
+	]
+}

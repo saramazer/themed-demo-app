@@ -1,0 +1,42 @@
+{
+	"theme": "Music",
+	"themeStyle": {
+		"colors": {
+			"brand": {
+				"title": "#ffffff",
+				"title_bg1": "#190E54",
+				"title_bg2": "#190C22"
+			}
+		},
+		"fonts": {
+			"heading": "Boogaloo"
+		}
+	},
+	"heroImage": "https://themify.me/demo/themes/music/files/2021/02/jazz-night.jpg",
+	"navLinks": [],
+	"itemType": "genre",
+	"clickSound": "themes/music/sound.mp4",
+	"defaultItemImage": "https://i.ebayimg.com/images/g/1yUAAOSw5PhfE~2f/s-l640.png",
+	"items": [
+		{
+			"name": "Country",
+			"image": "https://emby.media/community/uploads/inline/251713/5c43556fad289_CountryMusic.png"
+		},
+        {
+            "name": "Rock",
+            "image": "https://emby.media/community/uploads/inline/251713/5c43555961571_RockMusic.png"
+        },
+        {
+            "name": "Rap/Hip Hop",
+            "image": "https://emby.media/community/uploads/inline/251713/5e42e437d3440_Hiphop.png"
+        },
+        {
+            "name": "Jazz",
+            "image": "https://emby.media/community/uploads/monthly_2020_09/1440714062_Jazz2.thumb.png.34ba7eecda979e30fe2146885fd98b7b.png"
+        },
+        {
+            "name": "Pop",
+            "image": "https://emby.media/community/uploads/inline/251713/5c43557ecccdf_PopMusic.png"
+        }
+	]
+}

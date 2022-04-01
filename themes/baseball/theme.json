@@ -16,7 +16,7 @@
 	"navLinks": ["Tickets", "Schedule", "Community"],
 	"itemType": "team",
 	"clickSound": "themes/baseball/sound.mp3",
-	"defaultItemImage": "https://logos-world.net/wp-content/uploads/2021/09/Major-League-Baseball-Logo-2019-present.webp",
+	"defaultItemImage": "https://www.mlbstatic.com/team-logos/league-on-dark/1.svg",
 	"items": [
 		{
 			"name": "Baltimore Orioles",

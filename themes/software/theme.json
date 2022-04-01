@@ -15,7 +15,7 @@
 	"heroImage": "https://static.techspot.com/articles-info/893/images/history-of-pc-ibm-pc-5150-6big.png",
 	"navLinks": [],
 	"itemType": "app",
-	"clickSound": "themes/p2p/sound.mp3",
+	"clickSound": "themes/software/sound.mp3",
 	"defaultItemImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Share_alt_square_font_awesome.svg/1920px-Share_alt_square_font_awesome.svg.png",
 	"items": [
 		{

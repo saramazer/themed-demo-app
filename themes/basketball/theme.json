@@ -13,7 +13,7 @@
 		}
 	},
 	"heroImage": "https://splash.stylemixthemes.com/basketball/wp-content/uploads/sites/6/2016/09/basketball-slider-2-1.jpg",
-	"navLinks": [],
+	"navLinks": ["Tickets"],
 	"itemType": "team",
 	"clickSound": "themes/basketball/sound.mp3",
 	"defaultItemImage": "https://www.designbust.com/download/1053/png/nba_logos_png_transparent256.png",

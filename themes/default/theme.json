@@ -3,12 +3,25 @@
     "themeStyle": {
         "colors": {
             "brand": {
-                "title": "#ebff38",
+                "title": "#EBFF38",
                 "title_bg1": "#282828",
-                "title_bg2": "#1E1E1E"
+                "title_bg2": "#282828"
             }
         },
-        "fonts": {}
+        "fonts": {
+            "heading": "'Audimat 3000 Regulier'"
+        },
+        "styles": {
+            "global": {
+                "body": {
+                    "bgImage": "url('noise.png')",
+                    "color": "#BCBEC0"
+                },
+                "img.ldLogoImage": {
+                    "content": "url('ld_logo_white.png')"
+                }
+            }
+        }
     },
     "heroImage": "themes/default/hero.webp",
     "navLinks": [],

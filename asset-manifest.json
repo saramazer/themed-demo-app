@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/themed-demo-app/static/css/main.30f5b27e.css",
-    "main.js": "/themed-demo-app/static/js/main.a1f098f3.js",
-    "static/media/Audimat3000-Regulier.woff2": "/themed-demo-app/static/media/Audimat3000-Regulier.307ed8f86873d9cea2ab.woff2",
-    "static/media/Sohne-Buch.woff2": "/themed-demo-app/static/media/Sohne-Buch.b777d742e817429ac558.woff2",
-    "index.html": "/themed-demo-app/index.html",
-    "main.30f5b27e.css.map": "/themed-demo-app/static/css/main.30f5b27e.css.map",
-    "main.a1f098f3.js.map": "/themed-demo-app/static/js/main.a1f098f3.js.map"
+    "main.css": "/static/css/main.064f2b2b.css",
+    "main.js": "/static/js/main.08d23d9e.js",
+    "static/media/Audimat3000-Regulier.woff2": "/static/media/Audimat3000-Regulier.307ed8f86873d9cea2ab.woff2",
+    "static/media/Sohne-Buch.woff2": "/static/media/Sohne-Buch.b777d742e817429ac558.woff2",
+    "index.html": "/index.html",
+    "main.064f2b2b.css.map": "/static/css/main.064f2b2b.css.map",
+    "main.08d23d9e.js.map": "/static/js/main.08d23d9e.js.map"
   },
   "entrypoints": [
-    "static/css/main.30f5b27e.css",
-    "static/js/main.a1f098f3.js"
+    "static/css/main.064f2b2b.css",
+    "static/js/main.08d23d9e.js"
   ]
 }

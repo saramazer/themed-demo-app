@@ -11,14 +11,22 @@ import App from './App.js';
 
 
 
-  if ( /newrelic|NewRelic|newRelic|New Relic/i.test(navigator.userAgent) ) 
- // if( /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/.test(navigator.userAgent) ) 
-  {
+//   if ( /newrelic|NewRelic|newRelic|New Relic/i.test(navigator.userAgent) ) 
+//  // if( /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/.test(navigator.userAgent) ) 
+//   {
+//     deviceType = 'NewRelic';
+//   }
+//   else {
+//    deviceType = 'humans';
+//   }
+//   console.log('users device is:', deviceType);
+
+  if (localStorage.getItem("userGroup") === null) {
+    deviceType = 'humans';
+  } else {
     deviceType = 'NewRelic';
   }
-  else {
-   deviceType = 'humans';
-  }
+
   console.log('users device is:', deviceType);
 
   const LDProvider = await asyncWithLDProvider({
@@ -47,10 +55,19 @@ import App from './App.js';
     }
   });
 
+class JSXDemo extends React.Component {
+  render() {
+    return <h1>{deviceType}</h1>;
+  }
+}
+
   ReactDOM.render(
+    <div>
+    <JSXDemo></JSXDemo>
     <LDProvider>
       <App />
-    </LDProvider>,
+    </LDProvider>
+    </div>,
     document.getElementById('root')
   );
 })();

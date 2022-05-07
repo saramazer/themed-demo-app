@@ -125,6 +125,8 @@ function App() {
     setContext(previousContext => ({ ...previousContext, demoServerBroken: demoServerBroken }));
   }, [demoServerBroken]);
 
+  ldClient.flush();
+  
   return (
     <ChakraProvider theme={theme.current}>
       <DemoContext.Provider value={{ context, setContext }}>

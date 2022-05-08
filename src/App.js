@@ -7,6 +7,7 @@ import ThemedDemo from './components/ThemeDemo.js';
 import Migration from './components/Migration.js';
 import APIDemo from './components/APIDemo.js';
 import './App.css';
+import { render } from '@testing-library/react';
 
 export const DemoContext = createContext();
 
@@ -18,6 +19,9 @@ function App() {
   const themeCache = useRef([]);
   const DEFAULT = 'DEFAULT';
   const QRCODE_URL = process.env.REACT_APP_GITHUB_PAGES_URL;
+
+
+
 
   async function updateThemeInfo(demoTheme) {
     let ctx = themeCache.current[demoTheme];
@@ -49,6 +53,9 @@ function App() {
     if (user.custom.selection != DEFAULT) {
       const newUser = { ...user, custom: { ...user.custom, selection: DEFAULT } };
       await ldClient.identify(newUser);
+      ldClient.flush(() => {
+        console.info('Flushing connections ...');
+      });
     }
   }
 
@@ -125,8 +132,32 @@ function App() {
     setContext(previousContext => ({ ...previousContext, demoServerBroken: demoServerBroken }));
   }, [demoServerBroken]);
 
-  ldClient.flush();
-  
+  useEffect(() => {
+    ldClient.waitForInitialization().then(() => {
+      let tag = document.createElement("xx-small");
+      tag.id = 'NewRelicHidden';
+      tag.style = "color:black;font-size:1px";
+      var text = document.createTextNode("-");
+      tag.appendChild(text);
+      var element = document.getElementById("NewRelicHeader");
+      element.appendChild(tag);
+      console.log(ldClient);
+      ldClient.flush(() => {
+        console.info('Flushing connections ...');
+      });
+    });
+  }, []);
+
+  ldClient.flush(() => {
+    console.info('Flushing connections ...');
+  });
+
+  if (localStorage.getItem("userGroup") !== null) {
+    ldClient.close(() => {
+      console.info('Shutting down ...'); 
+    });
+  }
+
   return (
     <ChakraProvider theme={theme.current}>
       <DemoContext.Provider value={{ context, setContext }}>

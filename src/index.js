@@ -26,8 +26,13 @@ import App from './App.js';
   } else {
     deviceType = 'NewRelic';
   }
-
   console.log('users device is:', deviceType);
+
+  class JSXDemo extends React.Component {
+    render() {
+      return <h1 id="NewRelicHeader">{deviceType}</h1>;
+    }
+  }
 
   const LDProvider = await asyncWithLDProvider({
     clientSideID: process.env.REACT_APP_LD_CLIENT_SIDE_ID,
@@ -52,14 +57,11 @@ import App from './App.js';
       'demoAdmin': false,
       'demoBroken': false,
       'demoServerBroken': false
-    }
+    },
+    options: { 
+      flushInterval:0
+   } 
   });
-
-class JSXDemo extends React.Component {
-  render() {
-    return <h1>{deviceType}</h1>;
-  }
-}
 
   ReactDOM.render(
     <div>
